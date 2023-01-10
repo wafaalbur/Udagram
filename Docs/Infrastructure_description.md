@@ -1,4 +1,4 @@
 ## AWS Infrastructure
 
-[AWSInfrastructureDiagram]!(Docs/Images//AWSInfrastructureDiagram.png)
+![AWSInfrastructureDiagram](Docs/Images//AWSInfrastructureDiagram.png)
 
