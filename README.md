@@ -6,7 +6,7 @@ This application is provided to you as an alternative starter project if you do 
 
 ### App Link 
 
-[ http://wafasbucket.s3-website-us-east-1.amazonaws.com/home ]
+[ http://wafasbucket.s3-website-us-east-1.amazonaws.com ]
 
 
 ### Installation
